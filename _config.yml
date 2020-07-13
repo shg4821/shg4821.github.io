@@ -25,11 +25,11 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author: SHG
+author_bio: 안녕하세요 성장하는 개발자 (이고 싶은) 껴르입니다 :) 
+author_email: "shg4821@gmail.com"
+author_location: Korea
+author_website_url: "https://github.com/shg4821/"
 typewrite-text: Hello ! I'm growing developer, HG
 
 author_work_experiences:
@@ -67,16 +67,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: null
+github_username:  shg4821
+facebook_username: 한결
+linkedin_username: null
+behance_username: null
+instagram_username: 94_hg_4821
+medium_username: null
+telegram_username: null
+dribbble_username: null
+flickr_username: null
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
