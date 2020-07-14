@@ -13,7 +13,7 @@ urls:
     - text: Blog
       url: /blog
     - text: Gallery
-      url: /shg4821/gallery
+      url: /gallery
     - text: Shop
       url : /shop
     - text: Contact Me
