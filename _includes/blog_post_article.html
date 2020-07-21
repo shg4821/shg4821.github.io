@@ -24,18 +24,18 @@
     <br />
     {{ content }}
     <br />
-    {%- include share_page.html -%}
+    <!--{%- include share_page.html -%} -->
   </div>
-  <!--
-  {%- if site.hyvor_talk_website_id -%}
+  
+  {%- if site.disqus_shortname -%}
   <div class="comments">
-    {%- include hyvor_comments.html -%}
+    {%- include blog_post_comments.html -%}
   </div>
   {%- endif -%}
--->
-  <!-- Incomment incase you want to use Disqus
+
+  <!-- Incomment incase you want to use Disqus-->
       <div id="disqus_thread"></div>
-   -->
+   
 
 
 </article>
