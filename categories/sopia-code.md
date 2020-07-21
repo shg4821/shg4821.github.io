@@ -1,13 +1,13 @@
 ---
 layout: page
-title: etc
-permalink: /blog/categories/etc/
+title: sopia-code
+permalink: /blog/categories/sopia-code/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
 
 <div class="card">
-{% for post in site.categories.etc %}
+{% for post in site.categories.sopia-code %}
  <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </div>
