@@ -130,7 +130,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/categories/:name/'
+    category: '/blog/categories/:name/'
 
 # Shop
 collections:
