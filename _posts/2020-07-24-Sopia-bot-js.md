@@ -5,7 +5,7 @@ summary: Javascript With SOPIA
 author: SHG
 date: '2020-07-24 16:53:00 +0900'
 category: sopia-code
-thumbnail: /assets/img/posts/sopia/yoon.jpg
+thumbnail: /assets/img/posts/sopia/yoon.png
 ---
 
 # 개요
