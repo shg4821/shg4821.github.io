@@ -45,7 +45,6 @@ thumbnail: /assets/img/posts/sopia/yoon.jpg
 ## 2)  소피아란 ?
 
 > 스푼라디오 자동 매니저 프로그램 
->
 > Javascript 기반
 
 - [소피아 개발 블로그](https://blog.naver.com/ifthe1201/221810647597)
