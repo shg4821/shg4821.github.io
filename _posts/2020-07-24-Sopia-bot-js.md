@@ -36,7 +36,7 @@ thumbnail: /assets/img/posts/sopia/yoon.PNG
 
 
 
-![](C:/Users/pc12/Desktop/hg/assets/img/posts/sopia/yoon.PNG)
+![](../assets/img/posts/sopia/yoon.PNG)
 
 친절해요 너무 좋아...후욷...
 
